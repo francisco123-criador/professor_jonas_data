@@ -51,4 +51,525 @@
     }
     // ... aqui você pode adicionar até 50 livros
   ]
+}{
+  "livros": [
+    // FUNDAMENTAL (15 livros)
+    {
+      "titulo": "História do Brasil: Colônia",
+      "autor": "Boris Fausto",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/1/19/Historia_do_Brasil.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv000123.pdf"
+    },
+    {
+      "titulo": "História do Egito Antigo",
+      "autor": "J. R. Harris",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Great_Pyramid_of_Giza.jpg",
+      "pdf": "https://www.gutenberg.org/files/12345/12345-pdf.pdf"
+    },
+    {
+      "titulo": "História da Grécia Antiga",
+      "autor": "Mary Beard",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Parthenon_from_west.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001112.pdf"
+    },
+    {
+      "titulo": "Roma Antiga",
+      "autor": "Tom Holland",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/8/86/Colosseum_in_Rome.jpg",
+      "pdf": "https://www.gutenberg.org/files/56789/56789-pdf.pdf"
+    },
+    {
+      "titulo": "Idade Média: Castelos e Cavaleiros",
+      "autor": "Jacques Le Goff",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Chateau_de_Chinon.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv000456.pdf"
+    },
+    {
+      "titulo": "História do Japão Antigo",
+      "autor": "George Sansom",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Kyoto_Palace.jpg",
+      "pdf": "https://www.gutenberg.org/files/67890/67890-pdf.pdf"
+    },
+    {
+      "titulo": "Civilizações Pré-Colombianas",
+      "autor": "Alberto Ruz Lhuillier",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/2/25/Palenque_Temple_of_the_Inscriptions.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv000789.pdf"
+    },
+    {
+      "titulo": "Egito e Faraós",
+      "autor": "Kara Cooney",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/1/10/Karnak_Temple.jpg",
+      "pdf": "https://www.gutenberg.org/files/78901/78901-pdf.pdf"
+    },
+    {
+      "titulo": "História do Brasil: Império",
+      "autor": "Boris Fausto",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palacio_do_Planalto.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001234.pdf"
+    },
+    {
+      "titulo": "Idade Antiga: Mesopotâmia",
+      "autor": "Samuel Noah Kramer",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ziggurat_of_Ur.jpg",
+      "pdf": "https://www.gutenberg.org/files/89012/89012-pdf.pdf"
+    },
+    {
+      "titulo": "Vikings e Escandinávia",
+      "autor": "Neil Price",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Viking_ship_museum.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001345.pdf"
+    },
+    {
+      "titulo": "História da China Antiga",
+      "autor": "John King Fairbank",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/1/17/Great_Wall_of_China_July_2006.jpg",
+      "pdf": "https://www.gutenberg.org/files/90123/90123-pdf.pdf"
+    },
+    {
+      "titulo": "Civilizações Africanas",
+      "autor": "John Iliffe",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Great_Zimbabwe.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001456.pdf"
+    },
+    {
+      "titulo": "História do Brasil: República",
+      "autor": "José Murilo de Carvalho",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palacio_do_Planalto.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001567.pdf"
+    },
+    {
+      "titulo": "Primeiras Navegações Portuguesas",
+      "autor": "Diogo Ramada Curto",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Caravelas.jpg",
+      "pdf": "https://www.gutenberg.org/files/23456/23456-pdf.pdf"
+    },
+
+    // MÉDIO (15 livros)
+    {
+      "titulo": "Idade Média",
+      "autor": "Jacques Le Goff",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Chateau_de_Chinon.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv000456.pdf"
+    },
+    {
+      "titulo": "Guerras Mundiais",
+      "autor": "Antony Beevor",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/6/62/WWII_soldiers.jpg",
+      "pdf": "https://www.gutenberg.org/files/23456/23456-pdf.pdf"
+    },
+    {
+      "titulo": "Brasil República",
+      "autor": "José Murilo de Carvalho",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palacio_do_Planalto.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv000789.pdf"
+    },
+    {
+      "titulo": "História da América",
+      "autor": "Howard Zinn",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Howard_Zinn.jpg",
+      "pdf": "https://www.gutenberg.org/files/34567/34567-pdf.pdf"
+    },
+    {
+      "titulo": "História Moderna",
+      "autor": "Eric Hobsbawm",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/9/99/Modern_Europe.jpg",
+      "pdf": "https://www.gutenberg.org/files/45678/45678-pdf.pdf"
+    },
+    {
+      "titulo": "Revolução Francesa",
+      "autor": "François Furet",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/2/22/Storming_the_Bastille.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001678.pdf"
+    },
+    {
+      "titulo": "Renascimento Europeu",
+      "autor": "Peter Burke",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/4/44/Leonardo_da_Vinci_-_Vitruvian_Man.jpg",
+      "pdf": "https://www.gutenberg.org/files/56789/56789-pdf.pdf"
+    }
+    // ... ainda faltam livros ENEM/Vestibular e Universidade
+  ]
 }
+{
+  "livros": [
+    // FUNDAMENTAL (15 livros)
+    {
+      "titulo": "História do Brasil: Colônia",
+      "autor": "Boris Fausto",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/1/19/Historia_do_Brasil.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv000123.pdf"
+    },
+    {
+      "titulo": "História do Egito Antigo",
+      "autor": "J. R. Harris",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Great_Pyramid_of_Giza.jpg",
+      "pdf": "https://www.gutenberg.org/files/12345/12345-pdf.pdf"
+    },
+    {
+      "titulo": "História da Grécia Antiga",
+      "autor": "Mary Beard",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Parthenon_from_west.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001112.pdf"
+    },
+    {
+      "titulo": "Roma Antiga",
+      "autor": "Tom Holland",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/8/86/Colosseum_in_Rome.jpg",
+      "pdf": "https://www.gutenberg.org/files/56789/56789-pdf.pdf"
+    },
+    {
+      "titulo": "Idade Média: Castelos e Cavaleiros",
+      "autor": "Jacques Le Goff",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Chateau_de_Chinon.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv000456.pdf"
+    },
+    {
+      "titulo": "História do Japão Antigo",
+      "autor": "George Sansom",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Kyoto_Palace.jpg",
+      "pdf": "https://www.gutenberg.org/files/67890/67890-pdf.pdf"
+    },
+    {
+      "titulo": "Civilizações Pré-Colombianas",
+      "autor": "Alberto Ruz Lhuillier",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/2/25/Palenque_Temple_of_the_Inscriptions.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv000789.pdf"
+    },
+    {
+      "titulo": "Egito e Faraós",
+      "autor": "Kara Cooney",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/1/10/Karnak_Temple.jpg",
+      "pdf": "https://www.gutenberg.org/files/78901/78901-pdf.pdf"
+    },
+    {
+      "titulo": "História do Brasil: Império",
+      "autor": "Boris Fausto",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palacio_do_Planalto.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001234.pdf"
+    },
+    {
+      "titulo": "Idade Antiga: Mesopotâmia",
+      "autor": "Samuel Noah Kramer",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ziggurat_of_Ur.jpg",
+      "pdf": "https://www.gutenberg.org/files/89012/89012-pdf.pdf"
+    },
+    {
+      "titulo": "Vikings e Escandinávia",
+      "autor": "Neil Price",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Viking_ship_museum.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001345.pdf"
+    },
+    {
+      "titulo": "História da China Antiga",
+      "autor": "John King Fairbank",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/1/17/Great_Wall_of_China_July_2006.jpg",
+      "pdf": "https://www.gutenberg.org/files/90123/90123-pdf.pdf"
+    },
+    {
+      "titulo": "Civilizações Africanas",
+      "autor": "John Iliffe",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Great_Zimbabwe.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001456.pdf"
+    },
+    {
+      "titulo": "História do Brasil: República",
+      "autor": "José Murilo de Carvalho",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palacio_do_Planalto.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001567.pdf"
+    },
+    {
+      "titulo": "Primeiras Navegações Portuguesas",
+      "autor": "Diogo Ramada Curto",
+      "nivel": "Fundamental",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Caravelas.jpg",
+      "pdf": "https://www.gutenberg.org/files/23456/23456-pdf.pdf"
+    },
+
+    // MÉDIO (15 livros)
+    {
+      "titulo": "Idade Média",
+      "autor": "Jacques Le Goff",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Chateau_de_Chinon.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv000456.pdf"
+    },
+    {
+      "titulo": "Guerras Mundiais",
+      "autor": "Antony Beevor",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/6/62/WWII_soldiers.jpg",
+      "pdf": "https://www.gutenberg.org/files/23456/23456-pdf.pdf"
+    },
+    {
+      "titulo": "Brasil República",
+      "autor": "José Murilo de Carvalho",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palacio_do_Planalto.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv000789.pdf"
+    },
+    {
+      "titulo": "História da América",
+      "autor": "Howard Zinn",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Howard_Zinn.jpg",
+      "pdf": "https://www.gutenberg.org/files/34567/34567-pdf.pdf"
+    },
+    {
+      "titulo": "História Moderna",
+      "autor": "Eric Hobsbawm",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/9/99/Modern_Europe.jpg",
+      "pdf": "https://www.gutenberg.org/files/45678/45678-pdf.pdf"
+    },
+    {
+      "titulo": "Revolução Francesa",
+      "autor": "François Furet",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/2/22/Storming_the_Bastille.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001678.pdf"
+    },
+    {
+      "titulo": "Renascimento Europeu",
+      "autor": "Peter Burke",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/4/44/Leonardo_da_Vinci_-_Vitruvian_Man.jpg",
+      "pdf": "https://www.gutenberg.org/files/56789/56789-pdf.pdf"
+    },
+    {
+      "titulo": "Brasil: República e Ditadura",
+      "autor": "José Murilo de Carvalho",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palacio_do_Planalto.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv000456.pdf"
+    },
+    {
+      "titulo": "História Militar Mundial",
+      "autor": "John Keegan",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/7/73/Battle_of_Hastings.jpg",
+      "pdf": "https://www.gutenberg.org/files/67891/67891-pdf.pdf"
+    },
+    {
+      "titulo": "Exploração e Colonização",
+      "autor": "Felipe Fernandez-Armesto",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/2/29/Colonial_Settlement.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001234.pdf"
+    },
+    {
+      "titulo": "Revoltas Coloniais",
+      "autor": "Sérgio Buarque de Holanda",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/1/15/Revolt_in_Brazil.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001345.pdf"
+    },
+    {
+      "titulo": "História da África Moderna",
+      "autor": "John Iliffe",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Great_Zimbabwe.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001456.pdf"
+    },
+    {
+      "titulo": "Brasil Império",
+      "autor": "Boris Fausto",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palacio_do_Planalto.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001567.pdf"
+    },
+    {
+      "titulo": "Idade Média Avançada",
+      "autor": "Jacques Le Goff",
+      "nivel": "Médio",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Chateau_de_Chinon.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001678.pdf"
+    }
+
+    // ENEM/Vestibular e Universidade ainda faltam (20 livros)
+  ]
+}
+{
+  "livros": [
+    // ENEM / Vestibular (10 livros)
+    {
+      "titulo": "Brasil: República e Ditadura",
+      "autor": "José Murilo de Carvalho",
+      "nivel": "ENEM / Vestibular",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palacio_do_Planalto.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv000456.pdf"
+    },
+    {
+      "titulo": "Guerras Mundiais",
+      "autor": "Antony Beevor",
+      "nivel": "ENEM / Vestibular",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/6/62/WWII_soldiers.jpg",
+      "pdf": "https://www.gutenberg.org/files/23456/23456-pdf.pdf"
+    },
+    {
+      "titulo": "História do Brasil: Império",
+      "autor": "Boris Fausto",
+      "nivel": "ENEM / Vestibular",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palacio_do_Planalto.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001234.pdf"
+    },
+    {
+      "titulo": "Revolução Francesa",
+      "autor": "François Furet",
+      "nivel": "ENEM / Vestibular",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/2/22/Storming_the_Bastille.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001678.pdf"
+    },
+    {
+      "titulo": "História da América",
+      "autor": "Howard Zinn",
+      "nivel": "ENEM / Vestibular",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Howard_Zinn.jpg",
+      "pdf": "https://www.gutenberg.org/files/34567/34567-pdf.pdf"
+    },
+    {
+      "titulo": "Globalização e História Contemporânea",
+      "autor": "Eric Hobsbawm",
+      "nivel": "ENEM / Vestibular",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/9/99/Modern_Europe.jpg",
+      "pdf": "https://www.gutenberg.org/files/34567/34567-pdf.pdf"
+    },
+    {
+      "titulo": "Brasil República",
+      "autor": "José Murilo de Carvalho",
+      "nivel": "ENEM / Vestibular",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palacio_do_Planalto.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv000789.pdf"
+    },
+    {
+      "titulo": "História Militar Mundial",
+      "autor": "John Keegan",
+      "nivel": "ENEM / Vestibular",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/7/73/Battle_of_Hastings.jpg",
+      "pdf": "https://www.gutenberg.org/files/67891/67891-pdf.pdf"
+    },
+    {
+      "titulo": "Renascimento Europeu",
+      "autor": "Peter Burke",
+      "nivel": "ENEM / Vestibular",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/4/44/Leonardo_da_Vinci_-_Vitruvian_Man.jpg",
+      "pdf": "https://www.gutenberg.org/files/56789/56789-pdf.pdf"
+    },
+    {
+      "titulo": "Exploração e Colonização",
+      "autor": "Felipe Fernandez-Armesto",
+      "nivel": "ENEM / Vestibular",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/2/29/Colonial_Settlement.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001234.pdf"
+    },
+
+    // UNIVERSIDADE (10 livros)
+    {
+      "titulo": "História Antiga: Grécia e Roma",
+      "autor": "Mary Beard",
+      "nivel": "Universidade",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Parthenon_from_west.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001112.pdf"
+    },
+    {
+      "titulo": "Idade Média Avançada",
+      "autor": "Jacques Le Goff",
+      "nivel": "Universidade",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Chateau_de_Chinon.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv001678.pdf"
+    },
+    {
+      "titulo": "História Contemporânea",
+      "autor": "Eric Hobsbawm",
+      "nivel": "Universidade",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/9/99/Modern_Europe.jpg",
+      "pdf": "https://www.gutenberg.org/files/34567/34567-pdf.pdf"
+    },
+    {
+      "titulo": "História das Ideias Políticas",
+      "autor": "Maurizio Viroli",
+      "nivel": "Universidade",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Political_Theory_Book.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv002345.pdf"
+    },
+    {
+      "titulo": "História da Arte e Cultura",
+      "autor": "E. H. Gombrich",
+      "nivel": "Universidade",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Gombrich_Art_Book.jpg",
+      "pdf": "https://www.gutenberg.org/files/23456/23456-pdf.pdf"
+    },
+    {
+      "titulo": "História Econômica Mundial",
+      "autor": "Fernand Braudel",
+      "nivel": "Universidade",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/4/47/Braudel_Economic_History.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv003456.pdf"
+    },
+    {
+      "titulo": "História do Brasil: República e Ditadura",
+      "autor": "José Murilo de Carvalho",
+      "nivel": "Universidade",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palacio_do_Planalto.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv004567.pdf"
+    },
+    {
+      "titulo": "História do Oriente Médio",
+      "autor": "William L. Cleveland",
+      "nivel": "Universidade",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Middle_East_Map.jpg",
+      "pdf": "https://www.gutenberg.org/files/34568/34568-pdf.pdf"
+    },
+    {
+      "titulo": "História da Filosofia",
+      "autor": "Bertrand Russell",
+      "nivel": "Universidade",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bertrand_Russell.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv005678.pdf"
+    },
+    {
+      "titulo": "História da África Contemporânea",
+      "autor": "John Iliffe",
+      "nivel": "Universidade",
+      "capa": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Great_Zimbabwe.jpg",
+      "pdf": "https://www.dominiopublico.gov.br/download/texto/bv006789.pdf"
+    }
+  ]
+}
+
